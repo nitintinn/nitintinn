@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitintinn" alt="nitintinn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nitintin" target="blank"><img src="https://img.shields.io/twitter/follow/nitintin?logo=twitter&style=for-the-badge" alt="@nitintinn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nitintinn" target="blank"><img src="https://img.shields.io/twitter/follow/nitintin?logo=twitter&style=for-the-badge" alt="@nitintinn" /></a> </p>
 
 
 ![](https://komarev.com/ghpvc/?username=nitintinn&color=green)
