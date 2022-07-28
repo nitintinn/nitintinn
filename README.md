@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=nitintinn&color=green)![](https://www.linkedin.com/in/nitin-lakra-643977203/)
+![](https://komarev.com/ghpvc/?username=nitintinn&color=green)
+![](https://www.linkedin.com/in/nitin-lakra-643977203/)
 ### Hi there 👋
 
 **nitintinn/nitintinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
