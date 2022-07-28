@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nitintinn" target="blank"><img src="https://img.shields.io/twitter/follow/nitintinn?logo=twitter&style=for-the-badge" alt="nitintinn" /></a> </p>
 
 - 🔭 I’m currently working on **..**
 
