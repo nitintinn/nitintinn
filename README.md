@@ -4,25 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
 
-- 🔭 I’m currently working on **..**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **..**
+- 🌱 I’m currently learning **REACT Framework**
 
-- 👯 I’m looking to collaborate on **..**
+- 💬 Ask me about **https://twitter.com/nitintinnn**
 
-- 🤝 I’m looking for help with **..**
+- 📫 How to reach me **https://twitter.com/nitintinnn**
 
-- 👨‍💻 All of my projects are available at [..](..)
-
-- 📝 I regularly write articles on [..](..)
-
-- 💬 Ask me about **..**
-
-- 📫 How to reach me **..**
-
-- 📄 Know about my experiences [..](..)
-
-- ⚡ Fun fact **..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
