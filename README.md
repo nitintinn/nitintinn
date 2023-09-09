@@ -1,4 +1,4 @@
-[![Header](https://cdn.discordapp.com/attachments/787046368379797524/1149982348054638602/nitin.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://media.discordapp.net/attachments/787046368379797524/1149983436921122846/ezgif-2-37bcf2618b.gif)]()
 
 <h1 align="center">Hi 👋, I'm Nitin Lakra</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
