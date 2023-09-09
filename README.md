@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
 
-- 🔭 I’m currently working on Flutter full stack development 
+- 🔭 I’m currently working on Fullstack Flutter Development 
 
 - 🌱 I’m currently learning Node.js
 
