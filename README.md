@@ -26,9 +26,7 @@
 <a href="https://discord.gg/https://discord.gg/qEZ2PeZQ5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qEZ2PeZQ5a" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitintinn&show_icons=true&locale=en" alt="nitintinn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitintinn&" alt="nitintinn" /></p>
+<p>&nbsp;<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=nitintinn&show_icons=true&locale=en" alt="nitintinn" /> <img align="center" height='130px' src="https://github-readme-streak-stats.herokuapp.com/?user=nitintinn&" alt="nitintinn" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
