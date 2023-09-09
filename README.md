@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
 
-- 🔭 I’m currently working on Fullstack Flutter Development 
+<p align="center"> - 🔭 I’m currently working on Fullstack Flutter Development  </p>
 
-- 🌱 I’m currently learning Node.js
+<p align="center"> - 🌱 I’m currently learning Node.js </p>
 
 
 <h3 align="left">Connect with me:</h3>
