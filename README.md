@@ -1,7 +1,9 @@
 [![Header](https://media.discordapp.net/attachments/787046368379797524/1149983436921122846/ezgif-2-37bcf2618b.gif)]()
 
 <h1 align="center">Hi, I'm Nitin Lakra</h1>
-<h3 align="center">Currently pursuing master's degree in Computer Science at Lovely Professional University.</h3>
+
+I am currently pursuing a master's degree in Computer Science at Stanford University.
+<h3 align="center">I am currently pursuing a master's degree in Computer Science at Lovely Professional University.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
