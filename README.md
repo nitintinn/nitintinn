@@ -11,8 +11,8 @@
 <p align="center"> - 🌱 I’m currently learning Node.js </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/nitintinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitintinn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:17646732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17646732" height="30" width="40" /></a>
 <a href="https://fb.com/nitin lakra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitin lakra" height="30" width="40" /></a>
