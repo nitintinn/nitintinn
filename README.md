@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/787046368379797524/1149983436921122846/ezgif-2-37bcf2618b.gif)]()
+[![Header](https://cdn.discordapp.com/attachments/787046368379797524/1149983436921122846/ezgif-2-37bcf2618b.gif?ex=66110689&is=65fe9189&hm=bfa124717c231154a720286a8e835430a78ad9e6e5a8c94e6ada7610cef8f2ec&)]()
 
 <h1 align="center">About me </h1>
 
