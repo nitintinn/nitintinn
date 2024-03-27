@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
 
-<p align="center"> - 🎓 I am currently pursuing Master’s degree in Computer Science at Lovely Professional University.</h3>
+<p align="center"> - 🎓 I am currently pursuing Master’s degree in Computer Science.</h3>
 
 <p align="center"> - 🔭 I’m currently working on Fullstack Flutter Development  </p>
 
