@@ -1,3 +1,6 @@
+[![Header](httggps://cdn.discordapp.com/attachments/787046368379797524/1149983436921122846/ezgif-2-37bcf2618b.gif?ex=66110689&is=65fe9189&hm=bfa124717c231154a720286a8e835430a78ad9e6e5a8c94e6ada7610cef8f2ec&)]()
+
+
 <h1 align="center">About me </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
