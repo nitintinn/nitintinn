@@ -13,7 +13,6 @@
 <p align="center"> - 🔭 Currently working on Fullstack Flutter Development and exploring AI-driven technologies. </p>
 <p align="center"> - 🌱 Expanding my skillset with Node.js and backend development. </p>
 <p align="center"> - 💻 Researching topics like 5G Networks, IoT Integration, and 3D Dense Face Alignment (3DDFA). </p>
-<p align="center"> - 🎸 In my free time, I enjoy playing the guitar and exploring Stoic philosophy. </p>
 <p align="center"> - 📫 Reach me via email at <a href="mailto:nitinlakra987@gmail.com">nitinlakra987@gmail.com</a>. </p>
 
 <p align="center">
