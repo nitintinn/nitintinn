@@ -3,15 +3,25 @@
 
 <h1 align="center">About me </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nitintinn&label=Profile%20views&color=0e75b6&style=flat" alt="nitintinn" />
+</p>
 
-<p align="center"> - 🎓 I am currently pursuing Master’s degree in Computer Science.</h3>
+<h3 align="center"> 👋 Hi there! I'm Nitin Lakra </h3>
 
-<p align="center"> - 🔭 I’m currently working on Fullstack Flutter Development  </p>
+<p align="center"> - 🎓 Pursuing a Master’s degree in Computer Science and Engineering.</p>
+<p align="center"> - 🔭 Currently working on Fullstack Flutter Development and exploring AI-driven technologies. </p>
+<p align="center"> - 🌱 Expanding my skillset with Node.js and backend development. </p>
+<p align="center"> - 💻 Researching topics like 5G Networks, IoT Integration, and 3D Dense Face Alignment (3DDFA). </p>
+<p align="center"> - 🎸 In my free time, I enjoy playing the guitar and exploring Stoic philosophy. </p>
+<p align="center"> - 📫 Reach me via email at <a href="mailto:nitinlakra987@gmail.com">nitinlakra987@gmail.com</a>. </p>
 
-<p align="center"> - 🌱 I’m currently learning Node.js </p>
+<p align="center">
+  <a href="https://github.com/nitintinn">
+    <img src="https://img.shields.io/github/followers/nitintinn?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-<p align="center"> - 📫 How to reach me - You can mail me at nitinlakra987@gmail.com </p>
 
 
 <h3 align="center">Connect with me:</h3>
